@@ -156,7 +156,7 @@ footer .site__section__container {
 }
 
 .logo__link {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     text-transform: uppercase;
     color: var(--design-color);
@@ -309,7 +309,7 @@ footer .site__section__container {
 }
 
 .post__title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 600;
     text-transform: uppercase;
     color: var(--design-color);
@@ -331,7 +331,7 @@ footer .site__section__container {
 }
 
 .posts.equipe .post__box {
-    width: 20%;
+    width: 17%;
 }
 
 .post__box {
